@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2017-03-08
+img: cms.png
+alt: image-alt
+client: N/A
+project-date: March 2017
+category: Data Analysis
+description: Learning how to use CMSSW to do data analysis.
+
+---

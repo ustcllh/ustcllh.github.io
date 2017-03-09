@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2017-03-08
+img: d3.png
+alt: image-alt
+client: CERN
+project-date: March 2014
+category: Data Visualization
+description: Interested in D3.js, a JavaScript library for manipulating documents based on data.
+
+---

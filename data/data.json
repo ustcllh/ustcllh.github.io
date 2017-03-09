@@ -1,0 +1,93 @@
+[
+  {
+    "key":"Real Value",
+    "values":[
+      {
+        "reason":"C++ Programming",
+        "device":"Real Value",
+        "value":0.90
+
+      },
+      {
+        "reason":"Python Programming",
+        "device":"Real Value",
+        "value":0.60
+      },
+      {
+        "reason":"Github",
+        "device":"Real Value",
+        "value":0.60
+      },
+      {
+        "reason":"Classical Physics",
+        "device":"Real Value",
+        "value":0.90
+      },
+      {
+        "reason":"Modern Physics",
+        "device":"Real Value",
+        "value":0.60
+      },
+      {
+        "reason":"Cooking",
+        "device":"Real Value",
+        "value":0.70
+      },
+      {
+        "reason":"Dota2",
+        "device":"Real Value",
+        "value":0.60
+      },
+      {
+        "reason":"Attractive to grils",
+        "device":"Real Value",
+        "value":0.10
+      }
+    ]
+  },
+  {
+    "key":"Expected Value",
+    "values":[
+      {
+        "reason":"C++ Programming",
+        "device":"Expected Value",
+        "value":1.00
+      },
+      {
+        "reason":"Python Programming",
+        "device":"Expected Value",
+        "value":0.80
+      },
+      {
+        "reason":"Github",
+        "device":"Expected Value",
+        "value":0.90
+      },
+      {
+        "reason":"Classical Physics",
+        "device":"Expected Value",
+        "value":0.90
+      },
+      {
+        "reason":"Modern Physics",
+        "device":"Expected Value",
+        "value":0.90
+      },
+      {
+        "reason":"Cooking",
+        "device":"Expected Value",
+        "value":1.00
+      },
+      {
+        "reason":"Dota2",
+        "device":"Expected Value",
+        "value":0.60
+      },
+      {
+        "reason":"Attractive to grils",
+        "device":"Expected Value",
+        "value":0.60
+      }
+    ]
+  }
+]

@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2017-03-08
+img: sphenix.png
+alt: image-alt
+client: RHIC
+project-date: March 2017
+category: Detectors Simulations
+description: Recently I am learning how to use sPHENIX softwares to do simulations.
+
+---
